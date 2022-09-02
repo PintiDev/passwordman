@@ -1,27 +1,30 @@
-# Next.js + Tailwind CSS Example
+## PasswordMan By PintiDev
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This app basicly let's you generate passwords with your own options
 
-## Deploy your own
+Options are
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- Include Uppercase
+- Include LowerCase
+- Include Numbers
+- Include Symbols
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+> Screen Support for mobile and desktop devices
 
-## How to use
+- Mobile Version
+  ![Mobile PasswordMan](https://i.ibb.co/DtygKJQ/localhost-3000.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+- Desktop Version
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+![Desktop PasswordMan](https://i.ibb.co/0QmLbPB/localhost-3000-1.png)
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Packages Frameworks Other Tools
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- Nextjs
+- React
+- Tailwindcss
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- react-hot-toast
+- copy-to-clipboard
+- generate-password
+- passwordmeter
