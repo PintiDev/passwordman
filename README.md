@@ -1,5 +1,6 @@
 ## PasswordMan By PintiDev
 
+[Live Demo](https://pintipasswordman.vercel.app/)
 This app basicly let's you generate passwords with your own options
 
 Options are
